@@ -7,9 +7,9 @@ Config = {
 
 	BotToken = "1741247185:AAE8eg-u0JypmdbPQdMGJ_stYGq6vQ18Fxo", -- محل قرار دادن توکن ربات*
 
-	SupportBot = "@Pv_Mr_kourd_Bot", -- محل قرار دادن نام کاربری ربات پشتیبانی
-	Channel = "@sahandd776", -- محل قرار دادن آيدي کانال با @ 
-	ChannelLink = "https://telegram.me/sahandd776", -- محل قرار دادن لینک کانال شما 
+	SupportBot = "@sahandd776", -- محل قرار دادن نام کاربری ربات پشتیبانی
+	Channel = "@SAHAND_ONLINE", -- محل قرار دادن آيدي کانال با @ 
+	ChannelLink = "https://telegram.me/SAHAND_ONLINE", -- محل قرار دادن لینک کانال شما 
 
 	RedisIndex = 10, -- شمار رديس را در اينجا قرار دهيد (اگر نمیدونید چی هست تغییری ایجاد نکنید) --> Redis:Select ...
 	
