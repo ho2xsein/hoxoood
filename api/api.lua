@@ -360,7 +360,7 @@ flasher, roman}*
 -------------------
 
 -- Bot Token Setting
-BaseUrl = "https://api.telegram.org/bot"..https://t.me/joinchat/.."/"
+BaseUrl = "https://api.telegram.org/bot"
 
 function vardump(value)
 	print(Color.pYellow.."=================== START Vardump ==================="..Color.pReset)
